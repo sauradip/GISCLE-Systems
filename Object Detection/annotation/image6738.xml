@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sandeep</folder>
+	<filename>image6738.jpg</filename>
+	<path>C:\Users\SAURADIP\Desktop\GISCLE\windows_v1.5.2\dataset\Night Part 2\Sandeep\image6738.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>162</ymin>
+			<xmax>214</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>151</ymin>
+			<xmax>307</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
